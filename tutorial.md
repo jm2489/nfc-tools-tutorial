@@ -1,6 +1,6 @@
 # Welcome!
 
-Nice! It seems you recieved a custom nfc card made by Judrianne "Jude" Mahigne. This tutorial will show you the basic configuration of your new card and features and recommendations on how to use it. 
+Nice! It seems you received a custom nfc card made by me, Judrianne "Jude" Mahigne. This tutorial will show you the basic configuration of your new card and features and recommendations on how to use it. 
 
 ## Introduction
 NFC (Near Field Communication) tags are small, programmable chips that can store data and trigger actions when scanned by an NFC-enabled smartphone. The **NFC Tools** app, available on both **iOS** and **Android**, allows users to easily write, read, and manage NFC tags. This tutorial will guide you through the process of setting up and writing data to an NFC tag step by step.
