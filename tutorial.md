@@ -43,6 +43,8 @@ The **NFC Tools** app has many ways to link not only your social media accounts 
 
 For now, let's choose **Social networks** to link your LinkedIn account since it does have a cool LinkedIn logo afterall. Don't worry, you can always go back and change it to something else afterwards.
 
+![Linking LinkedIn account](images/social.png)
+
 ### Linking your LinkedIn Account
 1. Select **Edit** from the website below. The default is usually Facebook so let's change that.
 2. Select **LinkedIn** from one of the choices.
