@@ -21,7 +21,7 @@ Before you start, ensure you have the following:
    - **iPhone:** NFC is automatically enabled on supported devices (iPhone 7 and newer).
 2. Launch the **NFC Tools** app on your smartphone.
 
-![NFC Tools App Home Screen](images/nfc_tools_home.png)
+<img src="images/nfc_tools_home.png" alt="Alt text" width="300">
 
 ---
 
@@ -29,7 +29,7 @@ Before you start, ensure you have the following:
 1. In the NFC Tools app, tap on the **Write** tab.
 2. Select **Add a record** to begin adding data to the NFC tag.
 
-![Write Tab in NFC Tools](images/nfc_tools_write.png)
+<img src="images/nfc_tools_write.png" alt="Alt text" width="300">
 
 ---
 
@@ -43,7 +43,7 @@ The **NFC Tools** app has many ways to link not only your social media accounts 
 
 For now, let's choose **Social networks** to link your LinkedIn account since it does have a cool LinkedIn logo afterall. Don't worry, you can always go back and change it to something else afterwards.
 
-![Linking LinkedIn account](images/social.png)
+<img src="images/social.png" alt="Alt text" width="300">
 
 ### Linking your LinkedIn Account
 1. Select **Edit** from the website below. The default is usually Facebook so let's change that.
@@ -51,8 +51,7 @@ For now, let's choose **Social networks** to link your LinkedIn account since it
 3. Don't forget to fill in the **Enter your username** field to your LinkedIn account. Your username is located here: https://linkedin.com/in/{Username}
 4. Select **OK**
 
-![Linking LinkedIn account](images/linking_account.png)
-
+<img src="images/linking_account.png" alt="Alt text" width="300">
 ---
 
 ## Step 4: Write Data to the NFC Tag
@@ -60,9 +59,9 @@ For now, let's choose **Social networks** to link your LinkedIn account since it
 2. Place your NFC tag on the **top edge of your iPhone** or near the **back of your phone** (for Android).
 3. Hold it steady until you see a confirmation message stating **Write complete**.
 
-![Writing to NFC Tag pending](images/nfc_tools_write_pending.png)
-![Writing to NFC Tag complete](images/nfc_tools_write_complete.png)
+<img src="images/nfc_tools_write_pending.png" alt="Alt text" width="300">
 
+<img src="images/nfc_tools_write_complete.png" alt="Alt text" width="300">
 ---
 
 ## Step 5: Test the NFC Tag
